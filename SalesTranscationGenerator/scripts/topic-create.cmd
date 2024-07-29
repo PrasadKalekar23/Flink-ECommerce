@@ -1,0 +1,1 @@
+C:\Users\kalek\OneDrive\Desktop\kafka\confluent-7.6.0\bin\windows\kafka-topics.bat --create --bootstrap-server localhost:9092 --topic sales-topic --partitions 1 --replication-factor 1 --config segment.bytes=1000000

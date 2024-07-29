@@ -1,0 +1,1 @@
+C:\Users\kalek\OneDrive\Desktop\kafka\confluent-7.6.0\bin\windows\kafka-console-producer.bat --broker-list localhost:9093 --topic new-topic <C:\Users\kalek\IdeaProjects\kafka-project-1\data\data.csv

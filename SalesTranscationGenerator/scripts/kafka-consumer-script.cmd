@@ -1,0 +1,1 @@
+C:\Users\kalek\OneDrive\Desktop\kafka\confluent-7.6.0\bin\windows\kafka-console-consumer.bat --topic sales-topic --bootstrap-server localhost:9092 --from-beginning
